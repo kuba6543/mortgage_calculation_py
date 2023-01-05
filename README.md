@@ -14,7 +14,7 @@ Program will count and show mortgage schedule in table.
 ## Functions in programme:
 
 * read_data() - reading data from user
-* calculations(amount_of_mortgage, bank_fee, interest_rate, period_of_payment) - function calculating capital and interest installment
+* calculations(amount_of_mortgage, bank_fee, interest_rate, period_of_payment) - function calculating installment
 * make_a_table() - makes a table out of data
 
 ## Examplary input and output: 
